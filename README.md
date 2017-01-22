@@ -27,4 +27,4 @@ Contact
 -------
 
 The author can be reached at 
-vaibhav dot kapoor at gmail dot com
+vaibhav.kapoor@gmail.com
